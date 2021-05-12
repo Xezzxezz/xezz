@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Моя домашняя страница</title>
+</head>
+<body TEXT="#3CB371" bgcolor="#FFE4E1" link="#0000FF" vlink="#FF0000" alink="#000088">
+<center><h1>Приветствую на моей домашней странице!</h1></center>
+<center><h2>Надеюсь, Вам не будет скучно...</h2></center>
+Позвольте представиться: меня зовут
+<b><I>Катерина Негруца. </b></I>Я люблю <b>красивую музыку и классическую литературу. </b>Терпеть не могу<b> насекомых и РЭП.</b>
+<p><center>Для тех, кто еще не знает, как я выгляжу - моя фотография:</center></p>
+<p><center><img src="https://sun9-14.userapi.com/impg/c858328/v858328680/198f27/TXJELQrJXpo.jpg?size=864x1080&quality=96&sign=34814a7702bcba3e73c7f098676a3021&type=album"></center></p>
+<p><hr><center>Можете попробовать поискать информацию обо мне на <a href="yandex.ru">Яндексе. </a></center></p>
+<center>и напишите мне письмо на <a href="mailto:knegrutsa2003@mail.ru">negrutsa2003@mail.ru </a>,что у Вас вышло.</center>
+<hr><center><img src="https://acegif.com/wp-content/gifs/rainbow-115.gif"></center>
+</body>
+</html>
